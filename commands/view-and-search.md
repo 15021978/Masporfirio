@@ -1,8 +1,3 @@
----
-
-## `commands/view-and-search.md`
-
-```md
 # View and Search (Linux)
 
 Notes and examples for viewing file contents and searching for text or files.
